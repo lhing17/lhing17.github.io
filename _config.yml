@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: lhing17
+title: G. Seinfeld
 brief-intro: Java Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lhing17.github.io" # the base hostname & protocol for your site
@@ -23,7 +23,7 @@ description_footer: 本站记录我技术的成长之路！
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: lhing17
+duoshuo_shortname: G. Seinfeld
 disqus_shortname: #lhing17
 
 # statistic analysis 统计代码
